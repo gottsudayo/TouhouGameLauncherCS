@@ -18,3 +18,4 @@ E:\Documents\programs\CS\TouhouGameLauncher\obj\Release\net6.0-windows7.0\refint
 E:\Documents\programs\CS\TouhouGameLauncher\obj\Release\net6.0-windows7.0\TouhouGameLauncher.pdb
 E:\Documents\programs\CS\TouhouGameLauncher\obj\Release\net6.0-windows7.0\TouhouGameLauncher.genruntimeconfig.cache
 E:\Documents\programs\CS\TouhouGameLauncher\obj\Release\net6.0-windows7.0\ref\TouhouGameLauncher.dll
+E:\Documents\programs\CS\TouhouGameLauncher\obj\Release\net6.0-windows7.0\TouhouGameLauncher.sourcelink.json

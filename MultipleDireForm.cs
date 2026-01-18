@@ -24,14 +24,20 @@ namespace TouhouGameLauncher
             DireKouhoBox.Items.Clear(); // まず空にする
             foreach (var dire in SettingControll.DireList[SettingControll.DireList.Keys.ToList()[SettingControll.SelectedGameIndex]])  // 対象ゲームのディレクトリリストを表示
             {
+                string displayName = "";
+                if (SettingControll.Json["QuickLaunch"][SettingControll.Touhou.IndexOf(SettingControll.DireList.Keys.ToList()[SettingControll.SelectedGameIndex])] == dire) // QuickLaunchに設定されている場合は先頭に★を付与
+                {
+                    displayName += "★ ";
+                }
                 if (SettingControll.DictJson["DisplayName"].ContainsKey(dire))  // 表示名が登録されているかに応じて表示形式を変える
                 {
-                    DireKouhoBox.Items.Add(SettingControll.DictJson["DisplayName"][dire]);
+                    displayName += SettingControll.DictJson["DisplayName"][dire];
                 }
                 else
                 {
-                    DireKouhoBox.Items.Add(dire);
+                    displayName += dire;
                 }
+                DireKouhoBox.Items.Add(displayName);
             }
         }
 
@@ -145,6 +151,8 @@ namespace TouhouGameLauncher
                             MessageBox.Show($"{LanguageControll.Json[LanguageControll.LanguageID]["Ui"][35]}{SettingControll.DireList[SettingControll.DireList.Keys.ToList()[SettingControll.SelectedGameIndex]][DireKouhoBox.SelectedIndex]}", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         }
                     }
+                    DireKouhoBox_Init();
+                    SettingControll.SaveJson();
                 }
             }
         }
