@@ -1,0 +1,392 @@
+{
+  "Japanese": {
+    "Ui": [
+      "TouhouGameLauncher ver1.0.0",
+      "個人メモ",
+      "解説",
+      "起動",
+      "Custom起動",
+      "リスト更新",
+      "ファイル",
+      "設定",
+      "終了",
+      "日本語",
+      "ヘルプ",
+      "このアプリについて",
+      "Github",
+      "起動",
+      "表示名を変更",
+      "キャンセル",
+      "設定データ読み込み中...",
+      "ディレクトリデータ読み込み中...",
+      "ディレクトリを検索中...",
+      "GUI起動中...",
+      "設定ファイルを作成する方法を選択してください。",
+      "新規作成",
+      "Python版からインポート",
+      "終了",
+      "exe検索中",
+      "選別中",
+      "複数のディレクトリが見つかりました。",
+      "表示名変更",
+      "キャンセル",
+      "custom.exeが見つかりませんでした。",
+      "表示名を変更",
+      "検索ディレクトリ設定",
+      "起動時に解説タブを表示する",
+      "ゲームが以下ディレクトリに存在しませんのでQuickLaunchを解除します。\n\n",
+      "QuickLauchは設定されていません。",
+      "QuickLaunchを以下ディレクトリに設定しました。\n\n",
+      "QuickLaunchは既に以下のディレクトリに設定されています。\n上書きしますか？\n\n",
+      "QuickLaunchを解除しました。"
+    ],
+    "Game": [
+      "東方紅魔郷　～ the Embodiment of Scarlet Devil.",
+      "東方妖々夢　～ Perfect Cherry Blossom.",
+      "東方萃夢想　～ Immaterial and Missing Power.",
+      "東方永夜抄　～ Imperishable Night.",
+      "東方花映塚　～ Phantasmagoria of Flower View.",
+      "東方文花帖　～ Shoot the Bullet.",
+      "東方風神録　～ Mountain of Faith.",
+      "東方緋想天　～ Scarlet Weather Rhapsody.",
+      "東方地霊殿　～ Subterranean Animism.",
+      "東方星蓮船　～ Undefined Fantastic Object.",
+      "東方非想天則　～ 超弩級ギニョルの謎を追え",
+      "ダブルスポイラー　～ 東方文花帖",
+      "妖精大戦争　～ 東方三月精",
+      "東方神霊廟　～ Ten Desires.",
+      "東方心綺楼　～ Hopeless Masquerade.",
+      "東方輝針城　～ Double Dealing Character.",
+      "弾幕アマノジャク　～ Impossible Spell Card.",
+      "東方深秘録　～ Urban Legend in Limbo.",
+      "東方紺珠伝　～ Legacy of Lunatic Kingdom.",
+      "東方憑依華　～ Antinomy of Common Flowers.",
+      "東方天空璋　～ Hidden Star in Four Seasons.",
+      "秘封ナイトメアダイアリー　～ Violet Detector.",
+      "東方鬼形獣　～ Wily Beast and Weakest Creature.",
+      "東方剛欲異聞　～ 水没した沈愁地獄",
+      "東方虹龍洞　～ Unconnected Marketeers.",
+      "バレットフィリア達の闇市場　～ 100th Black Market.",
+      "東方獣王園　～ Unfinished Dream of All Living Ghost.",
+      "東方錦上京　～ Fossilized Wonders."
+    ],
+    "Info": [
+      "東方紅魔郷　～ the Embodiment of Scarlet Devil.\r\nこの作品の自機は博麗霊夢および霧雨魔理沙の2キャラクターで、プレイヤーは6ステージを通して幻想郷を覆う赤い霧の原因を探る縦スクロール弾幕シューティングを行う。\r\n博麗霊夢は広範囲攻撃とバランスの良い性能を持ち、霧雨魔理沙は高い火力と高速移動が特徴的で、各キャラごとにスペルカードとショットの特性が違う。\r\n本作は東方Project第6作で Windows 初期作品として伝統的な弾幕回避とスペルカードシステムを確立し、Normal でも弾幕処理を要求されるため、コミュニティの非公式評価では難易度を B と推定される作品である。",
+
+      "東方妖々夢　～ Perfect Cherry Blossom.\r\nこの作品の自機は博麗霊夢、霧雨魔理沙、そして初登場の十六夜咲夜の3キャラクターが選択可能であり、季節異変の真相を追う弾幕シューティングゲームである。\r\n本作では低速移動時に当たり判定が視認できるようになるなど初心者向けの補助機能もあり、Phantasm ステージなど高難易度モードも搭載される。\r\n各キャラごとにショット特性や弾幕の当たり判定の取り方が変わるため、プレイヤーの戦術が作品体験に直結し、Normal 以上は弾幕密度が増すため、非公式推定難易度は B と評価される。",
+
+      "東方萃夢想　～ Immaterial and Missing Power.\r\nこの作品のプレイヤーキャラクターは博麗霊夢、霧雨魔理沙、十六夜咲夜、アリス・マーガトロイド、パチュリー・ノーレッジ、魂魄妖夢、そして隠しキャラも含めた多数の東方キャラであり、通常の弾幕STGとは異なる2D 対戦格闘ゲームである。\r\n各キャラは弾幕風のスペルカード技や飛び道具を持ち、格闘アクションとしての駆け引きと弾幕表現が融合しているため、STG とは異なる操作体系となっている。\r\nジャンルが格闘であるため純粋な弾幕難易度とは性質が異なるが、プレイの習熟度が求められるため、非公式推定難易度は C と評価される。",
+
+      "東方永夜抄　～ Imperishable Night.\r\nこの作品の自機は『人間＋妖怪』のペアで、各ペアは固有ショットとボーダーシステムを持つ縦スクロール弾幕シューティングである。\r\nゲームは時間制システムや Border ゲージ管理があり、通常ステージの弾幕を避けつつ残り時間やゲージを意識した攻略が必要である。\r\nNormal 以上の難易度では独自システムの理解と戦略的な弾幕回避が求められ、非公式のファン評価では多彩な弾幕パターンに対応する必要があるため推定難易度は B とされる。",
+
+      "東方花映塚　～ Phantasmagoria of Flower View.\r\nこの作品の自機は博麗霊夢、霧雨魔理沙、早苗ら複数キャラクターが選択可能であり、2人同時プレイにも対応した対戦型弾幕シューティングである。\r\n通常のSTG とは異なり、敵弾幕の回避だけでなく相手プレイヤーへの弾幕送出や得点競争が主眼となり、戦術的な弾幕理解が重要な作品性を持つ。\r\nこの戦術性の高さを含めたプレイヤー間の競争要素から、コミュニティの非公式評価では C と推定される。",
+
+      "東方文花帖　～ Shoot the Bullet.\r\nこの作品の自機は射命丸文のみで、敵弾幕を撮影して評価するというユニークなシステムが特徴である。\r\nプレイヤーは弾幕をただ避けるだけでなく、カメラで弾幕パターンを的確に捉えることで高スコアやスペル取得が可能となるため、通常の弾幕回避とは異なる戦術的要素が強い。\r\nそのため純粋な弾幕難易度は他シリーズと比べてやや低く、非公式推定難易度は D とされる。",
+
+      "東方風神録　～ Mountain of Faith.\r\nこの作品の自機は博麗霊夢、霧雨魔理沙、東風谷早苗が選択可能で、霊撃という強力だがリスクとリターンを考えた特殊攻撃を持つ縦スクロール弾幕シューティングである。\r\n霊撃を効果的に活かしつつ、敵弾幕を避ける立ち回りが攻略の鍵となり、Normal では戦術的な弾幕処理の理解が必要とされる。\r\n非公式のファン難易度比較ではシリーズ中堅以上の密度を持つため推定難易度は B とされる作品である。",
+
+      "東方緋想天　～ Scarlet Weather Rhapsody.\r\nこの作品の自機は多数の東方キャラクターが選択可能な対戦格闘ゲームであり、STG 弾幕よりも対戦アクションの駆け引きが主体の作品である。\r\n各キャラは飛び道具や特殊技を持ち、格闘ゲームとしての読み合い・コンボ・防御技の活用がプレイの深さを生むため、STG とは異なるジャンルの難易度が求められる。\r\n格闘ゲーム基準での操作理解や戦術性の高さから、非公式推定難易度は C とされる。",
+
+      "東方地霊殿　～ Subterranean Animism.\r\nこの作品の自機は博麗霊夢、霧雨魔理沙、東風谷早苗、十六夜咲夜など複数のキャラクターが選択可能な縦スクロール弾幕シューティングであり、ZPS Difficulty Chart など非公式のプレイヤー評価において比較的高い難易度を示す作品である。\r\n敵弾幕は高速かつ複雑なパターンが連続し、Normal 以上では的確な弾幕認識と精密回避が必要となるため、多くのファンの間で上級者向けと評されている。\r\nそのため非公式推定難易度は A とされる作品である。",
+
+      "東方星蓮船　～ Undefined Fantastic Object.\r\nこの作品の自機は博麗霊夢、霧雨魔理沙、東風谷早苗が選択可能であり、UFO 収集ギミックと弾幕回避を両立させる縦スクロール弾幕シューティングゲームである。\r\nUFO を撃ち落として回収することでスコアやリソースに影響が出るため、通常の弾幕STG に比べて戦略性が高く、ステージ攻略にはギミック理解と弾幕処理の両方が求められる。\r\nコミュニティ評価ではやや高めの弾幕密度を持つとして推定難易度は B〜A とされる作品である。",
+
+      "東方非想天則　～ 超弩級ギニョルの謎を追え.\r\nこの作品の自機は多数の東方キャラクターで、それぞれに弾幕や特殊技、スペルカード技が用意された2D 対戦格闘系弾幕ゲームである。\r\nプレイヤーは接近戦や遠距離攻撃、回避行動を駆使しつつ対戦相手との駆け引きを行うため、STG 弾幕回避のみならずコンボ・防御・スペルカード読み合いといった格闘戦の高い技術が要求される。\r\nこの作品は格闘寄りの性質が強く、STG 的な難易度とは性質が異なるため、難易度は C と推定される。",
+
+      "ダブルスポイラー　～ 東方文花帖.\r\nこの作品の自機は射命丸文と姫海棠はたてで、前作『東方文花帖』の流れを汲む弾幕撮影系シューティングである。\r\nプレイヤーは弾幕を撮影することで点数を稼ぎ、特殊な条件を満たすことで撮影評価が上がる仕組みと独自のシーン進行が特徴だ。\r\n通常の弾幕STGのような避け主体のゲーム性ではなく、撮影位置・弾幕タイミング・スコア最適化といった要素が大きく、総合的な難易度は C と推定される作品である。",
+
+      "妖精大戦争　～ 東方三月精.\r\nこの作品の自機は複数の妖精キャラクターが選択できる横スクロール弾幕系アクションで、各妖精はそれぞれ特徴あるショットやボム、特殊行動を持つ。\r\nステージ内の弾幕を処理しつつ効率的に進むため、横方向移動の優先度やショット位置調整が重要となる。\r\nSprite-based の弾幕処理と対戦的ではない進行が特徴であるが、弾幕対応の技術が問われるため、総合的な難易度は C と推定される。",
+
+      "東方神霊廟　～ Ten Desires.\r\nこの作品の自機は博麗霊夢、霧雨魔理沙、東風谷早苗など複数で、霊界トランスシステムを含む縦スクロール弾幕STGである。\r\n霊界トランスは特定の条件下で強力な攻撃や無敵時間を得られるが、発動タイミングと弾幕の緩急を見極める技術が必要とされる。\r\nNormal でも弾幕密度と霊界トランス併用の判断が必要なため、推定難易度は B と評価される作品である。",
+
+      "東方心綺楼　～ Hopeless Masquerade.\r\nこの作品は多数の東方キャラクターを操作でき、対戦格闘系のゲームデザインを持つ作品である。\r\nSTG とは異なる2D 対戦格闘の操作体系の中にスペルカード的要素や特殊技の読み合いが組み込まれており、キャラクター同士の射撃・回避・防御を駆使した戦術的な駆け引きが攻略に直結する。\r\nそのため純粋な弾幕回避だけでなく対戦格闘としての熟練度も必要で、非公式推定の難易度は C とされる。",
+
+      "東方輝針城　～ Double Dealing Character.\r\nこの作品の自機は博麗霊夢、霧雨魔理沙、十六夜咲夜など選択可能で、二重結界システムなど独自ギミックの弾幕STGである。\r\n二重結界による弾幕変化、ショットタイミング、リソース管理がステージ攻略に影響し、Normal 以上では戦略的な回避と弾幕把握が求められる。\r\nシリーズ中堅以上の弾幕密度とギミック対応が必要なため、推定難易度は B とされる作品である。",
+
+      "弾幕アマノジャク　～ Impossible Spell Card.\r\nこの作品は多数の東方キャラクターを使用でき、選択したキャラで弾幕シーンを攻略していく形式のパズル＋STG 風ゲームである。\r\n通常のSTGに比べて弾幕の密度やパターンの複雑さが高く、アイテム無しでの攻略難易度がかなり高いシーンも存在する点が特徴である。\r\nそのため総合的なプレイ難易度は B〜A の推定とされ、弾幕処理と判断力が高く要求される作品である。",
+
+      "東方深秘録　～ Urban Legend in Limbo.\r\nこの作品は複数の格闘キャラクターが選択可能で、STG要素と2D 格闘要素を組み合わせた作品である。\r\n各キャラクターは飛び道具・スペル技・移動技を持ち、弾幕回避と接近戦を同時にこなす必要があり、格闘系の駆け引きが強く影響する。\r\nSTG と格闘ゲームが融合した設計から総合的な難易度は C とされ、両ジャンルの習熟が求められる作品である。",
+
+      "東方紺珠伝　～ Legacy of Lunatic Kingdom.\r\nこの作品の自機は博麗霊夢、霧雨魔理沙、東風谷早苗などで、非常に高速かつ高密度な弾幕が特徴の縦スクロール弾幕STGである。\r\n敵弾幕のパターンが複雑であり、Normal 以上でも的確な弾幕認識と回避タイミングの判断が求められるため、コミュニティではシリーズ中でも上位の難易度と評価される。\r\n非公式のプレイヤー評価を踏まえ、推定難易度は S とされる作品である。",
+
+      "東方憑依華　～ Antinomy of Common Flowers.\r\nこの作品は複数キャラクターを操作できる対戦型STGで、カードシステムを用いた戦略的な弾幕展開が特徴である。\r\n弾幕回避とカードの組み合わせといった戦術的要素が必要であり、単純な弾幕避け以上の戦略性が求められるため、推定難易度は B とされる作品である。",
+
+      "東方天空璋　～ Hidden Star in Four Seasons.\r\nこの作品の自機は博麗霊夢、霧雨魔理沙、東風谷早苗などで、季節ごとのアイテム収集システムを持つ縦スクロール弾幕STGである。\r\nプレイヤーはアイテム配置と弾幕回避を両立しつつ常に変化するステージ構成に対応する必要があり、総合的な弾幕対応が求められる。\r\nそのため非公式推定難易度は C と評価される作品である。",
+
+      "秘封ナイトメアダイアリー　～ Violet Detector.\r\nこの作品は宇佐見菫子をはじめとする複数キャラクターが選択可能で、弾幕撮影＋回避要素が混ざったユニークなSTGである。\r\n写真撮影による戦術評価が高く、弾幕避けの判断と撮影位置取りの両立が攻略に直結する特徴を持つ。\r\n撮影と弾幕処理が融合したシステムから、総合的な難易度は C と推定される作品である。",
+
+      "東方鬼形獣　～ Wily Beast and Weakest Creature.\r\nこの作品の自機は博麗霊夢、霧雨魔理沙など複数が選択可能で、動物霊憑依システムによる性能変化が特徴の縦スクロール弾幕STGである。\r\n動物霊の種類によって性能が変わる立ち回りや弾幕回避が求められ、Normal 以上でも戦略的判断が必要となるため、総合難易度は B とされる作品である。",
+
+      "東方剛欲異聞　～ 水没した沈愁地獄.\r\nこの作品の自機は複数キャラクターから選択可能な水中弾幕STGであり、水中というテーマ性と弾幕パターンが攻略に影響する。\r\nプレイヤーは水中特有の移動感・弾幕対応とリソース管理を両立する必要があり、総合的な難易度は B と推定される作品である。",
+
+      "東方虹龍洞　～ Unconnected Marketeers.\r\nこの作品の自機は博麗霊夢、東風谷早苗など複数キャラクターが選択可能な縦スクロール弾幕STGで、カードシステムを用いた弾幕変化が特徴である。\r\nカードの組み合わせと弾幕対応の両立が攻略の鍵となり、戦術性の高いプレイが求められるため、推定難易度は A とされる作品である。",
+
+      "バレットフィリア達の闇市場　～ 100th Black Market.\r\nこの作品の自機は複数キャラクターが選択可能で、カード／アイテム要素を絡めた横スクロール弾幕STGであり、特殊効果と弾幕回避の両立が攻略課題となる。\r\n横スクロールの特性とアイテム対応が要求されるため、総合的な難易度は B と評価される作品である。",
+
+      "東方獣王園　～ Unfinished Dream of All Living Ghost.\r\nこの作品は2 分割画面で展開する縦スクロール弾幕STGで、Split screen の仕様により別スクリーンで展開する弾幕を同時に把握しつつ進行する必要がある。\r\nこの分割画面ならではの視認負荷や弾幕処理がプレイヤーに要求されることから、推定難易度は B とされる作品である。",
+
+      "東方錦上京　～ Fossilized Wonders.\r\nこの作品の自機は複数キャラクターが選択可能で、Stones システムなど弾幕とアイテム管理を組み合わせた縦スクロールSTGである。\r\n変化するショットや弾幕パターンへの適応が必要なため、総合的な難易度は B と推定される作品である。"
+    ]
+
+  },
+  "English": {
+    "Ui": [
+      "Touhou Game Launcher ver 1.0.0",
+      "Personal Notes",
+      "Guide",
+      "Launch",
+      "Custom Launch",
+      "Refresh List",
+      "File",
+      "Settings",
+      "Exit",
+      "English",
+      "Help",
+      "About This App",
+      "GitHub",
+      "Launch",
+      "Rename Display Name",
+      "Cancel",
+      "Loading settings data...",
+      "Loading directory data...",
+      "Searching directories...",
+      "Starting GUI...",
+      "Please choose how to create the settings file.",
+      "Create New",
+      "Import from Python Version",
+      "Exit",
+      "Searching for executable...",
+      "Filtering results...",
+      "Multiple directories were found.",
+      "Rename Display Name",
+      "Cancel",
+      "custom.exe was not found.",
+      "Rename Display Name",
+      "Search Directory Settings",
+      "Show the guide tab on startup",
+      "The game was not found in the following directory. Quick Launch will be disabled.\n\n",
+      "Quick Launch is not configured.",
+      "Quick Launch has been set to the following directory:\n\n",
+      "Quick Launch is already set to the following directory.\nDo you want to overwrite it?\n\n",
+      "Quick Launch has been disabled."
+    ],
+
+    "Game": [
+      "The Embodiment of Scarlet Devil",
+      "Perfect Cherry Blossom",
+      "Immaterial and Missing Power",
+      "Imperishable Night",
+      "Phantasmagoria of Flower View",
+      "Shoot the Bullet",
+      "Mountain of Faith",
+      "Scarlet Weather Rhapsody",
+      "Subterranean Animism",
+      "Undefined Fantastic Object",
+      "Touhou Hisoutensoku",
+      "Double Spoiler",
+      "Great Fairy Wars",
+      "Ten Desires",
+      "Hopeless Masquerade",
+      "Double Dealing Character",
+      "Impossible Spell Card",
+      "Urban Legend in Limbo",
+      "Legacy of Lunatic Kingdom",
+      "Antinomy of Common Flowers",
+      "Hidden Star in Four Seasons",
+      "Violet Detector",
+      "Wily Beast and Weakest Creature",
+      "Sunken Fossil World",
+      "Unconnected Marketeers",
+      "100th Black Market",
+      "Unfinished Dream of All Living Ghost",
+      "Fossilized Wonders"
+    ],
+
+    "Info": [
+      "The Embodiment of Scarlet Devil.\r\nThis vertically scrolling bullet hell shooter features Reimu Hakurei and Marisa Kirisame as playable characters. Players progress through six stages to uncover the cause of the mysterious red mist covering Gensokyo.\r\nReimu offers wide-range attacks with balanced performance, while Marisa specializes in high firepower and fast movement, each with distinct shot types and spell cards.\r\nAs the sixth Touhou Project title and the first Windows-era entry, it established core mechanics such as spell cards. Even on Normal, dense patterns demand precise control, leading the community to rate its difficulty around B.",
+
+      "Perfect Cherry Blossom.\r\nPlayers can choose from Reimu Hakurei, Marisa Kirisame, or the newly introduced Sakuya Izayoi to investigate a seasonal incident in this bullet hell shooter.\r\nThe game includes beginner-friendly features such as visible hitboxes during focused movement, while also offering high-difficulty modes like the Phantasm stage.\r\nCharacter-specific shot behaviors significantly affect strategy, and increased bullet density on Normal and above places its estimated difficulty at B.",
+
+      "Immaterial and Missing Power.\r\nUnlike traditional shooters, this title is a 2D fighting game featuring a large roster including Reimu, Marisa, Sakuya, Alice, Patchouli, Youmu, and hidden characters.\r\nCharacters use danmaku-style spell cards and projectiles, blending fighting game mechanics with bullet patterns.\r\nWhile not comparable to pure shooting difficulty, mastery of combat mechanics is required, resulting in an estimated difficulty of C.",
+
+      "Imperishable Night.\r\nThis vertically scrolling shooter features paired characters consisting of a human and a youkai, each with unique shot types and a Border system.\r\nTime-based mechanics and gauge management play a major role, requiring players to balance survival with strategic decision-making.\r\nOn Normal and above, understanding the core systems and adapting to diverse patterns leads to an estimated difficulty of B.",
+
+      "Phantasmagoria of Flower View.\r\nThis competitive bullet hell shooter allows players to choose from many characters and supports two-player versus gameplay.\r\nRather than focusing solely on dodging, players send attacks to opponents and compete for score, emphasizing tactical bullet control.\r\nDue to its competitive nature, the community generally estimates its difficulty at C.",
+
+      "Shoot the Bullet.\r\nAya Shameimaru is the sole playable character, using a camera to photograph enemy bullet patterns instead of shooting them.\r\nSuccess depends on positioning and timing to capture bullets effectively, introducing a unique strategic layer beyond standard dodging.\r\nBecause of this distinct system, its overall difficulty is considered relatively low, with an estimated rating of D.",
+
+      "Mountain of Faith.\r\nPlayable characters include Reimu, Marisa, and Sanae Kochiya, each equipped with powerful but risky Spirit Attacks.\r\nEffective use of these abilities alongside precise dodging is essential for progression.\r\nWith moderate-to-high bullet density, the community estimates its difficulty at B.",
+
+      "Scarlet Weather Rhapsody.\r\nThis is a 2D fighting game featuring a wide range of Touhou characters, focusing on player-versus-player combat rather than shooting.\r\nEach character has unique projectiles and abilities, emphasizing prediction, combos, and defense.\r\nBased on fighting game standards, its estimated difficulty is C.",
+
+      "Subterranean Animism.\r\nA vertically scrolling shooter known for its high difficulty, featuring characters such as Reimu, Marisa, Sanae, and Sakuya.\r\nFast and complex bullet patterns demand precise recognition and movement, especially on Normal and higher difficulties.\r\nIt is widely regarded as one of the harder entries, with an estimated difficulty of A.",
+
+      "Undefined Fantastic Object.\r\nPlayers choose from Reimu, Marisa, or Sanae, balancing bullet dodging with collecting UFO items.\r\nThe UFO mechanic adds strategic depth, requiring both pattern recognition and resource management.\r\nDue to its demanding mechanics, the difficulty is often rated between B and A.",
+
+      "Touhou Hisoutensoku.\r\nThis 2D fighting game features an expanded cast, each with unique spell cards and projectile attacks.\r\nPlayers must master close combat, ranged attacks, and defensive techniques.\r\nIts fighting-oriented design places its estimated difficulty at C.",
+
+      "Double Spoiler.\r\nFeaturing Aya Shameimaru and Hatate Himekaidou, this title continues the photography-based gameplay of Shoot the Bullet.\r\nPlayers earn points by capturing bullet patterns under specific conditions.\r\nWith emphasis on timing and positioning rather than pure dodging, its estimated difficulty is C.",
+
+      "Great Fairy Wars.\r\nA side-scrolling action shooter starring fairy characters, each with unique shots and abilities.\r\nEfficient horizontal movement and shot placement are key to progression.\r\nDespite its lighter tone, technical skill is required, resulting in an estimated difficulty of C.",
+
+      "Ten Desires.\r\nThis vertically scrolling shooter introduces the Spirit World Trance system, granting temporary power boosts.\r\nProper activation timing is crucial for survival and scoring.\r\nEven on Normal, careful judgment is required, placing its difficulty at B.",
+
+      "Hopeless Masquerade.\r\nA fighting game featuring numerous Touhou characters.\r\nSpell-card-like mechanics are integrated into 2D combat, emphasizing tactical decision-making.\r\nOverall difficulty is estimated at C.",
+
+      "Double Dealing Character.\r\nThis shooter introduces unique mechanics such as the Double Barrier system.\r\nManaging shot timing, barriers, and resources is essential on higher difficulties.\r\nWith solid bullet density, its estimated difficulty is B.",
+
+      "Impossible Spell Card.\r\nA puzzle-oriented shooter where players tackle fixed danmaku scenarios.\r\nSome stages are extremely challenging without items, demanding high-level execution.\r\nOverall difficulty is estimated between B and A.",
+
+      "Urban Legend in Limbo.\r\nA hybrid of fighting game and shooting elements.\r\nPlayers must handle both projectile avoidance and close-range combat.\r\nDue to its mixed design, the estimated difficulty is C.",
+
+      "Legacy of Lunatic Kingdom.\r\nKnown for extremely fast and dense bullet patterns.\r\nEven on Normal, precise recognition and timing are mandatory.\r\nIt is widely regarded as one of the hardest entries, with an estimated difficulty of S.",
+
+      "Antinomy of Common Flowers.\r\nA competitive shooting game featuring a card-based system.\r\nStrategic card usage adds depth beyond standard bullet dodging.\r\nIts estimated difficulty is B.",
+
+      "Hidden Star in Four Seasons.\r\nA vertically scrolling shooter with a seasonal item system.\r\nPlayers must adapt to constantly changing stage conditions.\r\nOverall difficulty is estimated at C.",
+
+      "Violet Detector.\r\nA unique shooter combining bullet photography and dodging.\r\nStrategic positioning for photos is critical to success.\r\nIts hybrid mechanics place the difficulty at C.",
+
+      "Wily Beast and Weakest Creature.\r\nFeatures an Animal Spirit possession system that alters gameplay.\r\nStrategic choices affect both offense and defense.\r\nEstimated difficulty is B.",
+
+      "Sunken Fossil World.\r\nA water-themed shooter with distinctive movement and bullet behavior.\r\nManaging underwater physics and resources is key.\r\nOverall difficulty is estimated at B.",
+
+      "Unconnected Marketeers.\r\nIntroduces a card-based system that significantly alters bullet patterns.\r\nStrategic planning and adaptability are essential.\r\nEstimated difficulty is A.",
+
+      "100th Black Market.\r\nA side-scrolling shooter featuring cards and item effects.\r\nPlayers must balance special abilities with bullet avoidance.\r\nEstimated difficulty is B.",
+
+      "Unfinished Dream of All Living Ghost.\r\nA vertically scrolling shooter with a split-screen layout.\r\nPlayers must track multiple bullet fields simultaneously.\r\nDue to increased visual load, its estimated difficulty is B.",
+
+      "Fossilized Wonders.\r\nA vertically scrolling shooter featuring the Stones system.\r\nAdapting to changing shot and bullet patterns is required.\r\nOverall difficulty is estimated at B."
+    ]
+  },
+    "Korean": {
+      "Ui": [
+        "TouhouGameLauncher ver1.0.0",
+        "개인 메모",
+        "해설",
+        "실행",
+        "커스텀 실행",
+        "목록 새로고침",
+        "파일",
+        "설정",
+        "종료",
+        "한국어",
+        "도움말",
+        "이 앱 정보",
+        "Github",
+        "실행",
+        "표시 이름 변경",
+        "취소",
+        "설정 데이터 불러오는 중...",
+        "디렉터리 데이터 불러오는 중...",
+        "디렉터리 검색 중...",
+        "GUI 실행 중...",
+        "설정 파일 생성 방법을 선택하세요.",
+        "새로 생성",
+        "Python 버전에서 가져오기",
+        "종료",
+        "exe 검색 중",
+        "선별 중",
+        "여러 개의 디렉터리가 발견되었습니다.",
+        "표시 이름 변경",
+        "취소",
+        "custom.exe를 찾을 수 없습니다.",
+        "표시 이름 변경",
+        "검색 디렉터리 설정",
+        "시작 시 해설 탭 표시",
+        "게임이 아래 디렉터리에 존재하지 않아 QuickLaunch를 해제합니다.\n\n",
+        "QuickLaunch가 설정되어 있지 않습니다.",
+        "QuickLaunch를 아래 디렉터리로 설정했습니다.\n\n",
+        "QuickLaunch가 이미 아래 디렉터리에 설정되어 있습니다.\n덮어쓰시겠습니까?\n\n",
+        "QuickLaunch를 해제했습니다."
+      ],
+      "Game": [
+        "동방홍마향 ～ the Embodiment of Scarlet Devil.",
+        "동방요요몽 ～ Perfect Cherry Blossom.",
+        "동방췌몽상 ～ Immaterial and Missing Power.",
+        "동방영야초 ～ Imperishable Night.",
+        "동방화영총 ～ Phantasmagoria of Flower View.",
+        "동방문화첩 ～ Shoot the Bullet.",
+        "동방풍신록 ～ Mountain of Faith.",
+        "동방비상천 ～ Scarlet Weather Rhapsody.",
+        "동방지령전 ～ Subterranean Animism.",
+        "동방성련선 ～ Undefined Fantastic Object.",
+        "동방비상천칙 ～ 초드급 기뇰의 수수께끼를 추적하라",
+        "더블 스포일러 ～ 동방문화첩",
+        "요정대전쟁 ～ 동방삼월정",
+        "동방신령묘 ～ Ten Desires.",
+        "동방심기루 ～ Hopeless Masquerade.",
+        "동방휘침성 ～ Double Dealing Character.",
+        "탄막 아마노자쿠 ～ Impossible Spell Card.",
+        "동방심비록 ～ Urban Legend in Limbo.",
+        "동방감주전 ～ Legacy of Lunatic Kingdom.",
+        "동방빙의화 ～ Antinomy of Common Flowers.",
+        "동방천공장 ～ Hidden Star in Four Seasons.",
+        "비봉 나이트메어 다이어리 ～ Violet Detector.",
+        "동방귀형수 ～ Wily Beast and Weakest Creature.",
+        "동방강욕이문 ～ 물에 잠긴 침울한 지옥",
+        "동방홍룡동 ～ Unconnected Marketeers.",
+        "발렛필리아들의 암시장 ～ 100th Black Market.",
+        "동방수왕원 ～ Unfinished Dream of All Living Ghost.",
+        "동방금상경 ～ Fossilized Wonders."
+      ],
+      "Info": [
+        "동방홍마향 ～ the Embodiment of Scarlet Devil.\r\n플레이어 캐릭터는 하쿠레이 레이무와 키리사메 마리사 두 명이며, 6개의 스테이지를 통해 환상향을 뒤덮은 붉은 안개의 원인을 추적하는 종스크롤 탄막 슈팅 게임이다.\r\n레이무는 넓은 공격 범위와 균형 잡힌 성능을 지녔고, 마리사는 높은 화력과 빠른 이동 속도가 특징으로 캐릭터별로 샷과 스펠 카드의 성향이 다르다.\r\n동방 Project 제6작으로 Windows 초기 작품에 해당하며, Normal 난이도에서도 탄막 처리 능력이 요구되어 커뮤니티 비공식 평가는 난이도 B로 추정된다.",
+
+        "동방요요몽 ～ Perfect Cherry Blossom.\r\n레이무, 마리사, 그리고 첫 등장인 이자요이 사쿠야까지 총 3명의 캐릭터를 선택할 수 있는 탄막 슈팅 게임으로, 계절 이상 현상의 진상을 추적한다.\r\n저속 이동 시 판정이 표시되는 등 초보자를 위한 보조 기능이 있으며, Phantasm 스테이지와 같은 고난이도 모드도 수록되어 있다.\r\n캐릭터별 샷 특성과 판정 방식 차이로 전략성이 높으며, Normal 이상에서는 탄막 밀도가 증가해 비공식 난이도는 B로 평가된다.",
+
+        "동방췌몽상 ～ Immaterial and Missing Power.\r\n레이무, 마리사, 사쿠야, 앨리스, 파츄리, 요우무 등 다수의 동방 캐릭터가 등장하는 2D 대전 격투 게임이다.\r\n탄막풍 스펠 카드와 비거리 공격을 활용한 전투로 슈팅과 격투 요소가 결합된 독특한 시스템을 가진다.\r\n격투 게임 특성상 순수 탄막 난이도와는 다르지만 숙련도가 요구되어 비공식 난이도는 C로 평가된다.",
+
+        "동방영야초 ～ Imperishable Night.\r\n인간과 요괴의 페어를 조작하는 종스크롤 탄막 슈팅 게임으로, 각 페어는 고유한 샷과 보더 시스템을 지닌다.\r\n시간 제한 시스템과 보더 게이지 관리가 핵심이며, 남은 시간과 자원을 고려한 공략이 필요하다.\r\nNormal 이상에서는 시스템 이해와 전략적 회피가 요구되어 비공식 난이도는 B로 평가된다.",
+
+        "동방화영총 ～ Phantasmagoria of Flower View.\r\n여러 캐릭터를 선택할 수 있으며 2인 대전 플레이도 가능한 대전형 탄막 슈팅 게임이다.\r\n탄막 회피뿐 아니라 상대에게 탄막을 보내는 공격성과 점수 경쟁이 중심이 된다.\r\n전략성과 경쟁 요소로 인해 비공식 난이도는 C로 추정된다.",
+
+        "동방문화첩 ～ Shoot the Bullet.\r\n플레이어 캐릭터는 샤메이마루 아야 한 명이며, 적의 탄막을 사진으로 촬영해 평가하는 독특한 시스템이 특징이다.\r\n단순 회피가 아닌 촬영 위치와 타이밍이 중요해 전술성이 강하다.\r\n순수 탄막 난이도는 비교적 낮아 비공식 난이도는 D로 평가된다.",
+
+        "동방풍신록 ～ Mountain of Faith.\r\n플레이어 캐릭터는 하쿠레이 레이무, 키리사메 마리사, 코치야 사나에를 선택할 수 있으며, 강력하지만 리스크와 리턴을 고려해야 하는 특수 공격인 ‘영격’을 지닌 종스크롤 탄막 슈팅 게임이다.\r\n영격을 효과적으로 활용하면서 적 탄막을 회피하는 운영이 공략의 핵심이며, Normal 난이도에서는 전술적인 탄막 처리 이해가 요구된다.\r\n비공식 팬 난이도 비교에서는 시리즈 중견 이상 수준의 밀도를 지닌 작품으로, 추정 난이도는 B로 평가된다.",
+
+        "동방비상천 ～ Scarlet Weather Rhapsody.\r\n다수의 동방 캐릭터를 선택할 수 있는 대전 격투 게임으로, STG 탄막보다 대전 액션의 심리전이 중심이 되는 작품이다.\r\n각 캐릭터는 비거리 공격과 특수 기술을 지니며, 읽기 싸움·콤보·방어 기술 활용이 플레이 깊이를 만들어 STG와는 다른 장르의 난이도가 요구된다.\r\n격투 게임 기준의 조작 이해와 전술성으로 인해 비공식 추정 난이도는 C로 평가된다.",
+
+        "동방지령전 ～ Subterranean Animism.\r\n하쿠레이 레이무, 키리사메 마리사, 코치야 사나에, 이자요이 사쿠야 등 여러 캐릭터를 선택할 수 있는 종스크롤 탄막 슈팅 게임으로, ZPS Difficulty Chart 등 비공식 플레이어 평가에서 비교적 높은 난이도를 보이는 작품이다.\r\n적 탄막은 고속이면서 복잡한 패턴이 연속되며, Normal 이상에서는 정확한 탄막 인식과 정밀 회피가 요구되어 상급자용으로 평가된다.\r\n그 결과 비공식 추정 난이도는 A로 분류된다.",
+
+        "동방성련선 ～ Undefined Fantastic Object.\r\n하쿠레이 레이무, 키리사메 마리사, 코치야 사나에를 선택할 수 있으며, UFO 수집 기믹과 탄막 회피를 병행해야 하는 종스크롤 탄막 슈팅 게임이다.\r\nUFO를 격추해 회수하면 점수와 자원에 영향을 주기 때문에, 일반적인 탄막 STG보다 전략성이 높고 기믹 이해와 탄막 처리를 동시에 요구한다.\r\n커뮤니티 평가에서는 다소 높은 탄막 밀도를 지닌 작품으로, 추정 난이도는 B~A로 평가된다.",
+
+        "동방비상천칙 ～ 초드급 기뇰의 수수께끼를 추적하라.\r\n다수의 동방 캐릭터가 등장하며, 각 캐릭터마다 탄막·특수 기술·스펠 카드 기술이 준비된 2D 대전 격투 계열 탄막 게임이다.\r\n근접전과 원거리 공격, 회피 행동을 구사하며 상대와의 심리전을 펼쳐야 하므로, STG식 탄막 회피뿐 아니라 콤보·방어·스펠 카드 읽기 등 고도의 격투 기술이 요구된다.\r\n격투 성향이 강해 STG식 난이도와는 성격이 달라, 추정 난이도는 C로 평가된다.",
+
+        "더블 스포일러 ～ 동방문화첩.\r\n플레이어 캐릭터는 샤메이마루 아야와 히메카이도 하타테로, 전작 『동방문화첩』의 흐름을 잇는 탄막 촬영형 슈팅 게임이다.\r\n탄막을 촬영해 점수를 획득하며, 특정 조건을 충족하면 촬영 평가가 상승하는 구조와 독자적인 씬 진행이 특징이다.\r\n회피 위주의 일반 탄막 STG와는 달리 촬영 위치·타이밍·스코어 최적화가 중요해, 종합 난이도는 C로 추정된다.",
+
+        "요정대전쟁 ～ 동방삼월정.\r\n여러 요정 캐릭터를 선택할 수 있는 횡스크롤 탄막 액션 게임으로, 각 요정은 고유한 샷·봄·특수 행동을 지닌다.\r\n스테이지 내 탄막을 처리하며 효율적으로 진행하기 위해 횡이동 우선도와 샷 위치 조정이 중요하다.\r\n스프라이트 기반 탄막 처리와 비대전적 진행이 특징이지만, 탄막 대응 기술이 요구되어 종합 난이도는 C로 평가된다.",
+
+        "동방신령묘 ～ Ten Desires.\r\n하쿠레이 레이무, 키리사메 마리사, 코치야 사나에 등 여러 캐릭터를 선택할 수 있으며, 영계 트랜스 시스템을 포함한 종스크롤 탄막 STG이다.\r\n영계 트랜스는 특정 조건에서 강력한 공격과 무적 시간을 제공하지만, 발동 타이밍과 탄막의 완급을 가늠하는 기술이 필요하다.\r\nNormal 난이도에서도 탄막 밀도와 트랜스 병용 판단이 요구되어 추정 난이도는 B로 평가된다.",
+
+        "동방심기루 ～ Hopeless Masquerade.\r\n다수의 동방 캐릭터를 조작할 수 있는 대전 격투 중심의 게임 디자인을 지닌 작품이다.\r\nSTG와는 다른 2D 대전 격투 조작 체계에 스펠 카드적 요소와 특수 기술의 읽기 싸움이 결합되어, 사격·회피·방어를 활용한 전술적 심리전이 공략의 핵심이 된다.\r\n순수 탄막 회피뿐 아니라 대전 격투 숙련도도 필요해 비공식 추정 난이도는 C로 평가된다.",
+
+        "동방휘침성 ～ Double Dealing Character.\r\n하쿠레이 레이무, 키리사메 마리사, 이자요이 사쿠야 등을 선택할 수 있으며, 이중 결계 시스템 등 독자적인 기믹을 지닌 탄막 STG이다.\r\n이중 결계에 따른 탄막 변화, 샷 타이밍, 자원 관리가 공략에 영향을 주며, Normal 이상에서는 전략적인 회피와 탄막 파악이 요구된다.\r\n시리즈 중견 이상 수준의 탄막 밀도와 기믹 대응이 필요해 추정 난이도는 B로 평가된다.",
+
+        "탄막 아마노자쿠 ～ Impossible Spell Card.\r\n다수의 동방 캐릭터를 사용해 선택한 캐릭터로 탄막 씬을 공략하는 퍼즐＋STG 성격의 게임이다.\r\n일반 STG보다 탄막 밀도와 패턴 복잡도가 높고, 아이템 없이 공략해야 하는 고난이도 씬도 존재한다.\r\n그 결과 종합 플레이 난이도는 B~A로 추정되며, 탄막 처리와 판단력이 강하게 요구된다.",
+
+        "동방심비록 ～ Urban Legend in Limbo.\r\n여러 격투 캐릭터를 선택할 수 있으며, STG 요소와 2D 격투 요소를 결합한 작품이다.\r\n각 캐릭터는 비거리 공격·스펠 기술·이동 기술을 지녀 탄막 회피와 근접전을 동시에 수행해야 하고, 격투 심리전의 영향이 크다.\r\nSTG와 격투의 융합 설계로 종합 난이도는 C로 평가되며, 두 장르에 대한 숙련이 요구된다.",
+
+        "동방감주전 ～ Legacy of Lunatic Kingdom.\r\n하쿠레이 레이무, 키리사메 마리사, 코치야 사나에 등을 조작하며, 매우 고속·고밀도의 탄막이 특징인 종스크롤 탄막 STG이다.\r\n탄막 패턴이 복잡해 Normal 이상에서도 정확한 인식과 회피 타이밍 판단이 요구되며, 커뮤니티에서는 시리즈 최상위 난이도로 평가된다.\r\n비공식 플레이어 평가를 종합해 추정 난이도는 S로 분류된다.",
+
+        "동방빙의화 ～ Antinomy of Common Flowers.\r\n여러 캐릭터를 조작하는 대전형 STG로, 카드 시스템을 활용한 전략적인 탄막 전개가 특징이다.\r\n탄막 회피와 카드 조합이라는 전술적 요소가 요구되어 단순 회피 이상의 전략성이 필요하며, 추정 난이도는 B로 평가된다.",
+
+        "동방천공장 ～ Hidden Star in Four Seasons.\r\n하쿠레이 레이무, 키리사메 마리사, 코치야 사나에 등을 선택할 수 있으며, 계절별 아이템 수집 시스템을 지닌 종스크롤 탄막 STG이다.\r\n아이템 배치와 탄막 회피를 병행하며 끊임없이 변화하는 스테이지 구성에 대응해야 한다.\r\n그 결과 비공식 추정 난이도는 C로 평가된다.",
+
+        "비봉 나이트메어 다이어리 ～ Violet Detector.\r\n우사미 스미레코를 비롯한 여러 캐릭터를 선택할 수 있는, 탄막 촬영과 회피가 결합된 독특한 STG이다.\r\n사진 촬영을 통한 전술 평가 비중이 높고, 회피 판단과 촬영 위치 선정의 병행이 공략의 핵심이다.\r\n촬영과 탄막 처리가 융합된 시스템 특성상 종합 난이도는 C로 추정된다.",
+
+        "동방귀형수 ～ Wily Beast and Weakest Creature.\r\n하쿠레이 레이무, 키리사메 마리사 등 여러 캐릭터를 선택할 수 있으며, 동물령 빙의 시스템에 따른 성능 변화가 특징인 종스크롤 탄막 STG이다.\r\n동물령 종류에 따른 운영과 탄막 회피가 요구되며, Normal 이상에서도 전략적 판단이 필요해 종합 난이도는 B로 평가된다.",
+
+        "동방강욕이문 ～ 물에 잠긴 침울한 지옥.\r\n여러 캐릭터를 선택할 수 있는 수중 탄막 STG로, 수중이라는 테마와 탄막 패턴이 공략에 영향을 준다.\r\n수중 특유의 이동 감각, 탄막 대응, 자원 관리를 병행해야 하며 종합 난이도는 B로 추정된다.",
+
+        "동방홍룡동 ～ Unconnected Marketeers.\r\n하쿠레이 레이무, 코치야 사나에 등 여러 캐릭터를 선택할 수 있는 종스크롤 탄막 STG로, 카드 시스템에 의한 탄막 변화가 특징이다.\r\n카드 조합과 탄막 대응을 병행하는 것이 공략의 핵심으로, 전술성이 높아 추정 난이도는 A로 평가된다.",
+
+        "발렛필리아들의 암시장 ～ 100th Black Market.\r\n여러 캐릭터를 선택할 수 있으며, 카드·아이템 요소를 결합한 횡스크롤 탄막 STG이다.\r\n특수 효과와 탄막 회피를 동시에 처리해야 하고, 횡스크롤 특성과 아이템 대응이 요구되어 종합 난이도는 B로 평가된다.",
+
+        "동방수왕원 ～ Unfinished Dream of All Living Ghost.\r\n2분할 화면으로 전개되는 종스크롤 탄막 STG로, 스플릿 스크린 구조상 서로 다른 화면의 탄막을 동시에 인식하며 진행해야 한다.\r\n이로 인한 시인성 부담과 탄막 처리 요구로 인해 추정 난이도는 B로 평가된다.",
+
+        "동방금상경 ～ Fossilized Wonders.\r\n여러 캐릭터를 선택할 수 있으며, Stones 시스템 등 탄막과 아이템 관리를 결합한 종스크롤 STG이다.\r\n변화하는 샷과 탄막 패턴에 대한 적응이 필요해 종합 난이도는 B로 추정된다."
+      ]
+  }
+}

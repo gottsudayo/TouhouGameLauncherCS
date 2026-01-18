@@ -1,0 +1,10 @@
+E:\Documents\programs\CS\TouhouGameLauncher\obj\Debug\net5.0-windows7.0\TouhouGameLauncher.LoadingForm.resources
+E:\Documents\programs\CS\TouhouGameLauncher\obj\Debug\net5.0-windows7.0\TouhouGameLauncher.MainForm.resources
+E:\Documents\programs\CS\TouhouGameLauncher\obj\Debug\net5.0-windows7.0\TouhouGameLauncher.Form2.resources
+E:\Documents\programs\CS\TouhouGameLauncher\obj\Debug\net5.0-windows7.0\TouhouGameLauncher.SearchDireForm.resources
+E:\Documents\programs\CS\TouhouGameLauncher\obj\Debug\net5.0-windows7.0\TouhouGameLauncher.SetupForm.resources
+E:\Documents\programs\CS\TouhouGameLauncher\obj\Debug\net5.0-windows7.0\TouhouGameLauncher.csproj.GenerateResource.cache
+E:\Documents\programs\CS\TouhouGameLauncher\obj\Debug\net5.0-windows7.0\TouhouGameLauncher.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\programs\CS\TouhouGameLauncher\obj\Debug\net5.0-windows7.0\TouhouGameLauncher.AssemblyInfoInputs.cache
+E:\Documents\programs\CS\TouhouGameLauncher\obj\Debug\net5.0-windows7.0\TouhouGameLauncher.AssemblyInfo.cs
+E:\Documents\programs\CS\TouhouGameLauncher\obj\Debug\net5.0-windows7.0\TouhouGameLauncher.csproj.CoreCompileInputs.cache

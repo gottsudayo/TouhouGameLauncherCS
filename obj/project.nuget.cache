@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TrsFS5BXNZA=",
+  "success": true,
+  "projectFilePath": "E:\\Documents\\programs\\CS\\TouhouGameLauncher\\TouhouGameLauncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uraba\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
