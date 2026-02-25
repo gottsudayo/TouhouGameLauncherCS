@@ -94,13 +94,11 @@ namespace TouhouGameLauncher
                     {
                         psi.FileName = SettingControll.DireList[SettingControll.DireList.Keys.ToList()[SettingControll.SelectedGameIndex]][0].Replace(SettingControll.DireList.Keys.ToList()[SettingControll.SelectedGameIndex], "vpatch.exe");
                         psi.WorkingDirectory = Path.GetDirectoryName(psi.FileName);
-                        psi.UseShellExecute = true;
                     }
                     else
                     {
                         psi.FileName = SettingControll.DireList[SettingControll.DireList.Keys.ToList()[SettingControll.SelectedGameIndex]][0];
                         psi.WorkingDirectory = Path.GetDirectoryName(psi.FileName);
-                        psi.UseShellExecute = true;
                     }
                     try
                     {
@@ -132,7 +130,6 @@ namespace TouhouGameLauncher
                     ProcessStartInfo psi = new ProcessStartInfo();
                     psi.FileName = SettingControll.DireList[SettingControll.DireList.Keys.ToList()[SettingControll.SelectedGameIndex]][0].Replace(SettingControll.DireList.Keys.ToList()[GameList.SelectedIndex], "custom.exe");
                     psi.WorkingDirectory = Path.GetDirectoryName(psi.FileName);
-                    psi.UseShellExecute = true;
                     try
                     {
                         Process.Start(psi);
@@ -183,8 +180,14 @@ namespace TouhouGameLauncher
 
         private void MemoBox_TextChanged(object sender, EventArgs e)
         {
-            SettingControll.Json["MyMemo"][SettingControll.Touhou.IndexOf(SettingControll.DireList.Keys.ToList()[GameList.SelectedIndex])] = MemoBox.Text;
-            SettingControll.SaveJson();
+            try 
+            {
+                SettingControll.Json["MyMemo"][SettingControll.Touhou.IndexOf(SettingControll.DireList.Keys.ToList()[GameList.SelectedIndex])] = MemoBox.Text;
+                SettingControll.SaveJson();
+            } catch (ArgumentOutOfRangeException)
+            {
+
+            }
         }
 
         private void searchDireSeToolStripMenuItem_Click(object sender, EventArgs e)

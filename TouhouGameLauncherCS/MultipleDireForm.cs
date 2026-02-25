@@ -65,13 +65,11 @@ namespace TouhouGameLauncher
                 {
                     psi.FileName = SettingControll.DireList[SettingControll.DireList.Keys.ToList()[SettingControll.SelectedGameIndex]][DireKouhoBox.SelectedIndex].Replace(SettingControll.DireList.Keys.ToList()[SettingControll.SelectedGameIndex], "vpatch.exe");
                     psi.WorkingDirectory = Path.GetDirectoryName(psi.FileName);
-                    psi.UseShellExecute = true;
                 }
                 else
                 {
                     psi.FileName = SettingControll.DireList[SettingControll.DireList.Keys.ToList()[SettingControll.SelectedGameIndex]][DireKouhoBox.SelectedIndex];
                     psi.WorkingDirectory = Path.GetDirectoryName(psi.FileName);
-                    psi.UseShellExecute = true;
                 }
                 Process.Start(psi);
                 Application.Exit();
@@ -80,7 +78,6 @@ namespace TouhouGameLauncher
             {
                 psi.FileName = SettingControll.DireList[SettingControll.DireList.Keys.ToList()[SettingControll.SelectedGameIndex]][DireKouhoBox.SelectedIndex].Replace(SettingControll.DireList.Keys.ToList()[SettingControll.SelectedGameIndex], "custom.exe");
                 psi.WorkingDirectory = Path.GetDirectoryName(psi.FileName);
-                psi.UseShellExecute = true;
                 try
                 {
                     Process.Start(psi);

@@ -12,12 +12,12 @@ namespace TouhouGameLauncher
         {
             try
             {
-                string StrJson = File.ReadAllText("LanguageC100.json");
+                string StrJson = File.ReadAllText("LanguageC101.json");
                 Json = JsonSerializer.Deserialize<Dictionary<string, Dictionary<string, List<string>>>>(StrJson);
                 Debug.WriteLine($"Jsonの中身（Language）：{ Json}");
             } catch (System.IO.FileNotFoundException)
             {
-                MessageBox.Show("LanguageC100.json was not found.\nIt's not language.json with Python Edition.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("LanguageC101.json was not found.\nIt's not language.json with Python Edition.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 Environment.Exit(1);
             }
         }

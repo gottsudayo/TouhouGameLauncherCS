@@ -26,7 +26,7 @@ namespace TouhouGameLauncher
         private void LoadingForm_Shown(object sender, EventArgs e)
         {
             Console.WriteLine("起動中...");
-            Console.WriteLine("LanguageC100.jsonを読み込み中...");
+            Console.WriteLine("LanguageC101.jsonを読み込み中...");
             // Languageファイル読み込み
             LanguageControll.LoadJson();
             StatusLabel.Text = LanguageControll.Json[LanguageControll.LanguageID]["Ui"][16];
